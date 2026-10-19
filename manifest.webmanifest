@@ -1,0 +1,16 @@
+{
+  "name": "श्री रामलीला महोत्सव — बस्ती",
+  "short_name": "रामलीला बस्ती",
+  "description": "सनातन धर्म संस्था, बस्ती द्वारा आयोजित श्री रामलीला महोत्सव 2026",
+  "lang": "hi",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0509",
+  "theme_color": "#0d0509",
+  "icons": [
+    {"src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
